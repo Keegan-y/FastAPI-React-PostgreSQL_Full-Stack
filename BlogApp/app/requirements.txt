@@ -1,0 +1,12 @@
+pandas
+numpy
+psycopg2
+sqlalchemy
+jwt
+bcrypt
+passlib
+python-jose
+python-multipart
+async-exit-stack
+async-generator
+emails

@@ -1,0 +1,5 @@
+psycopg2
+--------------
+psycopg2 is posgres adapter for sqlalchamy this cant be installed directly in linux using pip, use below command to install
+
+    $ sudo apt-get install python3-psycopg2
