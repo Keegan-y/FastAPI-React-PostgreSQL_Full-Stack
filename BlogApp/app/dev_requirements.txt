@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+gunicorn
+pandas
+numpy
+psycopg2
+jwt
+sqlalchemy
+bcrypt
+passlib
+python-jose
+python-multipart
+async-exit-stack
+async-generator
+emails
